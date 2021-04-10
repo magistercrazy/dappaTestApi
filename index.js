@@ -34,7 +34,7 @@ app.get('/api/creature/:token_id', function(req, res) {
 
 app.get('/contract/DappaTest', function(req,res){
     const data = {
-      'description': 'Friendly creatures of the sea.', 
+      'description': 'Dolls of the dollz.', 
       'image': 'https://lh3.googleusercontent.com/d9D0eQyrTMW4jiUevXGxnCivU29neaYHGFYRHtTyibcsJS7krz-iGIneGRW7x8OBqGWQofSXKXUiDTy1WB-ZtHbt7XA9gIWLFcJl1g=s0', 
       'name': 'Dappa Dolls Test'
     }
