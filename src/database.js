@@ -109,7 +109,7 @@ module.exports = {
     "205": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "205.png",
-        "image": "205.png",
+        "image": "ipfs://QmYi8GMkCwa4eS8uyfDjEqjo1hsWvicgdCSgjy5VrbSLxq",
         "name": "Dappa Doll #205",
         "attributes": [{
                 "trait_type": "Type",
@@ -321,7 +321,7 @@ module.exports = {
     "212": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "212.png",
-        "image": "212.png",
+        "image": "ipfs://QmSwroE3dgvyFTXB225wX1JLkmE7U41piVkcAepyqumKK9",
         "name": "Dappa Doll #212",
         "attributes": [{
                 "trait_type": "Type",
@@ -679,7 +679,7 @@ module.exports = {
     "223": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "223.png",
-        "image": "223.png",
+        "image": "ipfs://QmQM9kY9Cq3d5o3mcmX9MKCmADSfEdi2fuCzL5xYcpBKYJ",
         "name": "Dappa Doll #223",
         "attributes": [{
                 "trait_type": "Type",
@@ -752,7 +752,7 @@ module.exports = {
     "225": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "225.png",
-        "image": "225.png",
+        "image": "ipfs://QmZ5hi39Kszx6J3azh3XjvtvHgMxJkbXJvKW1Rs73gC2R9",
         "name": "Dappa Doll #225",
         "attributes": [{
                 "trait_type": "Type",
@@ -1180,7 +1180,7 @@ module.exports = {
     "238": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "238.png",
-        "image": "238.png",
+        "image": "ipfs://Qma35GDG2P2X1QuBi6YciRzZMjU4Ufe1UGiiDTej6JsMhd",
         "name": "Dappa Doll #238",
         "attributes": [{
                 "trait_type": "Type",
@@ -1346,7 +1346,7 @@ module.exports = {
     "243": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "243.png",
-        "image": "243.png",
+        "image": "ipfs://QmRkvDWCwj4Nr1nM4XZwJfefxBpwpQNf8T8JcyAXEtdbuc",
         "name": "Dappa Doll #243",
         "attributes": [{
                 "trait_type": "Type",
@@ -1532,7 +1532,7 @@ module.exports = {
     "249": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "249.png",
-        "image": "249.png",
+        "image": "ipfs://QmfBzu2zSp8YiACVifpGyKqPToNNFhduETxmzRwneyXvE3",
         "name": "Dappa Doll #249",
         "attributes": [{
                 "trait_type": "Type",
@@ -1602,7 +1602,7 @@ module.exports = {
     "251": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "251.png",
-        "image": "251.png",
+        "image": "ipfs://QmQAsUf6Ef4EeQXta5y6i7w7CHLPZRL2tTAVf6u46oiqFK",
         "name": "Dappa Doll #251",
         "attributes": [{
                 "trait_type": "Type",
@@ -1782,7 +1782,7 @@ module.exports = {
     "257": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "257.png",
-        "image": "257.png",
+        "image": "ipfs://QmNajE4qE2TtMEs6P2TZGMCBjDJDEh69Qc25yo6KTfa5Jz",
         "name": "Dappa Doll #257",
         "attributes": [{
                 "trait_type": "Type",
@@ -1977,7 +1977,7 @@ module.exports = {
     "263": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "263.png",
-        "image": "263.png",
+        "image": "ipfs://QmS9T5KfJGKjdSzDqSgsP6SgAXD5M3ADQQWdjwChZCV9CQ",
         "name": "Dappa Doll #263",
         "attributes": [{
                 "trait_type": "Type",
@@ -2125,7 +2125,7 @@ module.exports = {
     "268": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "268.png",
-        "image": "268.png",
+        "image": "ipfs://QmeSpDf8WKJbDhEnumqF1Ka7KEGR1wKmk4QcHk9qDPv9Y3",
         "name": "Dappa Doll #268",
         "attributes": [{
                 "trait_type": "Type",
@@ -2262,7 +2262,7 @@ module.exports = {
     "272": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "272.png",
-        "image": "272.png",
+        "image": "ipfs://Qmbo3cDNJ8yWvQws6Xj1M3ij7ueJkUCjpjUZVJM4NHJskc",
         "name": "Dappa Doll #272",
         "attributes": [{
                 "trait_type": "Type",
@@ -2640,7 +2640,7 @@ module.exports = {
     "284": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "284.png",
-        "image": "284.png",
+        "image": "ipfs://QmYqzrwhgPjbegSWdgpcL61vERJYmP1pChhxyMpWFUZmVU",
         "name": "Dappa Doll #284",
         "attributes": [{
                 "trait_type": "Type",
@@ -2788,7 +2788,7 @@ module.exports = {
     "289": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "289.png",
-        "image": "289.png",
+        "image": "ipfs://QmY8iFeGGtTa51cCBevKYoZyy5F7DRqMAE2DPUpabtz4pS",
         "name": "Dappa Doll #289",
         "attributes": [{
                 "trait_type": "Type",
@@ -3058,7 +3058,7 @@ module.exports = {
     "298": {
         "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
         "external_url": "298.png",
-        "image": "298.png",
+        "image": "ipfs://Qmco81Hi5EBs7t9pHM4bk8gY6ZUYZth5wrB7VSneGpqJWM",
         "name": "Dappa Doll #298",
         "attributes": [{
                 "trait_type": "Type",
