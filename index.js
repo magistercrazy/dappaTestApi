@@ -4,6 +4,8 @@ const moment = require('moment')
 const { HOST } = require('./src/constants')
 const db = require('./src/database')
 
+const lastMinted = 302;
+
 const PORT = process.env.PORT || 5000
 
 const app = express()
@@ -21,6 +23,20 @@ app.get('/', function(req, res) {
 app.get('/api/creature/:token_id', function(req, res) {
   const tokenId = parseInt(req.params.token_id).toString()
   const doll = db[tokenId]
+  
+  const data = {
+    'name': doll.name,
+    'attributes': doll.attributes,
+    'image': doll.image,
+    'description':doll.description,
+
+  }
+  res.send(data)
+})
+
+app.get('/api/factory/:token_id', function(req, res) {
+  const tokenId = parseInt(req.params.token_id)
+  const doll = db[(tokenId+lastMinted).toString()]
   
   const data = {
     'name': doll.name,

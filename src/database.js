@@ -9,7 +9,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
@@ -32,7 +32,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Blue Lips "
@@ -70,7 +70,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }
         ]
     },
@@ -99,7 +99,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Red Straw Boater Hat"
@@ -154,7 +154,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
@@ -163,7 +163,7 @@ module.exports = {
                 "value": "Small Double Earings"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Blue Wide Brim Fedora"
@@ -180,13 +180,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Red Square Sunglasses"
@@ -253,7 +253,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Black Round Sunglasses"
@@ -270,13 +270,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 4"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 1"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green High Beanie"
@@ -352,7 +352,7 @@ module.exports = {
                 "value": "Pineapple Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Beard 3"
+                "value": "Male Beard"
             }
         ]
     },
@@ -381,7 +381,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Purple High Beanie"
@@ -512,13 +512,13 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Thick Black Sunglasses"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Web Tattoo 2"
+                "value": "Web Tattoo"
             }
         ]
     },
@@ -547,7 +547,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 2"
+                "value": "Scar"
             }
         ]
     },
@@ -582,7 +582,7 @@ module.exports = {
                 "value": "Golden Akubra"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 5"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -631,7 +631,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
@@ -704,7 +704,7 @@ module.exports = {
                 "value": "Black Studs"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green Wide Brim Fedora"
@@ -742,7 +742,7 @@ module.exports = {
                 "value": "Single Earring"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Thick White Sunglasses"
@@ -783,7 +783,7 @@ module.exports = {
                 "value": "Green Wide Brim Fedora"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Full Tattoo 2"
+                "value": "Full Tattoo"
             }
         ]
     },
@@ -847,7 +847,7 @@ module.exports = {
                 "value": "White Beaded Necklace"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green Wide Brim Fedora"
@@ -864,7 +864,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Blue Lips "
@@ -873,7 +873,7 @@ module.exports = {
                 "value": "Single Earring"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green Backwards Cap"
@@ -908,10 +908,10 @@ module.exports = {
                 "value": "Mole"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Mix Tattoo 1"
+                "value": "Mix Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Beard 1"
+                "value": "Male Beard"
             }
         ]
     },
@@ -943,7 +943,7 @@ module.exports = {
                 "value": "Brown Akubra"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Full Tattoo 1"
+                "value": "Full Tattoo"
             }
         ]
     },
@@ -957,7 +957,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 1"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
@@ -1001,7 +1001,7 @@ module.exports = {
                 "value": "Single Earring"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Black Square Glasses"
@@ -1112,10 +1112,10 @@ module.exports = {
                 "value": "Black Cat Eye Glasses"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Rose Tattoo 1"
+                "value": "Rose Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 3"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -1205,7 +1205,7 @@ module.exports = {
                 "value": "Gold Studs"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Black Akubra"
@@ -1228,7 +1228,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
@@ -1237,7 +1237,7 @@ module.exports = {
                 "value": "Lightening Bolt Earring"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 1"
+                "value": "Scar"
             }
         ]
     },
@@ -1266,7 +1266,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Tattoo",
-                "value": "Tribal Tattoo 2"
+                "value": "Tribal Tattoo"
             }, {
                 "trait_type": "Beard",
                 "value": "Male Beard 7"
@@ -1301,10 +1301,10 @@ module.exports = {
                 "value": "Gold Chain"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Web Tattoo 1"
+                "value": "Web Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 10"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -1336,7 +1336,7 @@ module.exports = {
                 "value": "Single Earring"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Tattoo",
                 "value": "Pineapple Tattoo"
@@ -1391,7 +1391,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Blue Lips "
@@ -1435,10 +1435,10 @@ module.exports = {
                 "value": "Purple Backwards Cap"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Web Tattoo 1"
+                "value": "Web Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Beard 6"
+                "value": "Male Beard"
             }
         ]
     },
@@ -1470,7 +1470,7 @@ module.exports = {
                 "value": "Orange Bucket Hat"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Rose Tattoo 1"
+                "value": "Rose Tattoo"
             }
         ]
     },
@@ -1516,7 +1516,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
@@ -1557,7 +1557,7 @@ module.exports = {
                 "value": "Pear Necklace"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Golden VR Goggles"
@@ -1624,16 +1624,16 @@ module.exports = {
                 "value": "Eyebrow Piercing"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green High Beanie"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Web Tattoo 2"
+                "value": "Web Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 4"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -1647,13 +1647,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Blue Backwards Cap"
@@ -1673,7 +1673,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 4"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
@@ -1714,7 +1714,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }, {
                 "trait_type": "Tattoo",
                 "value": "Pineapple Tattoo"
@@ -1731,13 +1731,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Blue Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Gold Glasses"
@@ -1772,10 +1772,10 @@ module.exports = {
                 "value": "Lightening Bolt Earring"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Full Tattoo 2"
+                "value": "Full Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 7"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -1827,13 +1827,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Tattoo",
                 "value": "Stripe Tattoo"
@@ -1865,7 +1865,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 2"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green Backwards Cap"
@@ -1903,13 +1903,13 @@ module.exports = {
                 "value": "Upper Gold Studs"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Thick Black Sunglasses"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Wing Tattoo 1"
+                "value": "Wing Tattoo"
             }
         ]
     },
@@ -1958,13 +1958,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Black Cat Eye Glasses"
@@ -2002,13 +2002,13 @@ module.exports = {
                 "value": "Upper Gold Studs"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Full Tattoo 1"
+                "value": "Full Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 10"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -2040,7 +2040,7 @@ module.exports = {
                 "value": "Black Wide Brim Fedora"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Beard 3"
+                "value": "Male Beard"
             }
         ]
     },
@@ -2054,7 +2054,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
@@ -2077,13 +2077,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 4"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Blue Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }
         ]
     },
@@ -2150,7 +2150,7 @@ module.exports = {
                 "value": "Small Double Earings"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 1"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Red Cat Eye Glasses"
@@ -2220,7 +2220,7 @@ module.exports = {
                 "value": "Gold Studs"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 1"
+                "value": "Scar"
             }
         ]
     },
@@ -2255,7 +2255,7 @@ module.exports = {
                 "value": "Orange Bucket Hat"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Full Tattoo 1"
+                "value": "Full Tattoo"
             }
         ]
     },
@@ -2395,7 +2395,7 @@ module.exports = {
                 "value": "Thick Black Glasses"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 7"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -2444,7 +2444,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
@@ -2488,7 +2488,7 @@ module.exports = {
                 "value": "Small Double Earings"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 1"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -2537,7 +2537,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
@@ -2578,7 +2578,7 @@ module.exports = {
                 "value": "Black Studs"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Full Tattoo 1"
+                "value": "Full Tattoo"
             }
         ]
     },
@@ -2621,7 +2621,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 4"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
@@ -2630,7 +2630,7 @@ module.exports = {
                 "value": "Double Earnings"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Black Wide Brim Fedora"
@@ -2685,7 +2685,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Blue Lips "
@@ -2711,13 +2711,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green Cap"
@@ -2752,7 +2752,7 @@ module.exports = {
                 "value": "Pearl Studs"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }, {
                 "trait_type": "Tattoo",
                 "value": "Spiral Tribal Tattoo"
@@ -2813,13 +2813,13 @@ module.exports = {
                 "value": "Black Choker"
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 4"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Green Beanie"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Rose Tattoo 3"
+                "value": "Rose Tattoo"
             }
         ]
     },
@@ -2833,7 +2833,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 4"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Green Lips "
@@ -2877,7 +2877,7 @@ module.exports = {
                 "value": "Tear  Tattoo"
             }, {
                 "trait_type": "Beard",
-                "value": "Male Moustache 10"
+                "value": "Male Moustache"
             }
         ]
     },
@@ -2891,7 +2891,7 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Blue Lips "
@@ -2917,13 +2917,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 2"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Black Bucket Hat"
@@ -2955,7 +2955,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 5"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Thick Black Sunglasses"
@@ -2972,13 +2972,13 @@ module.exports = {
                 "value": "Alien"
             }, {
                 "trait_type": "Eyes",
-                "value": "Alien Eyes 3"
+                "value": "Alien Eyes"
             }, {
                 "trait_type": "Mouth",
                 "value": "Black Lips "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 3"
+                "value": "Scar"
             }, {
                 "trait_type": "Glasses",
                 "value": "Thick White Sunglasses"
@@ -3010,7 +3010,7 @@ module.exports = {
                 "value": "Eyebrows "
             }, {
                 "trait_type": "Markings",
-                "value": "Scar 6"
+                "value": "Scar"
             }, {
                 "trait_type": "Hats",
                 "value": "Orange Bucket Hat"
@@ -3086,7 +3086,7 @@ module.exports = {
                 "value": "Green Wide Brim Fedora"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Full Tattoo 2"
+                "value": "Full Tattoo"
             }, {
                 "trait_type": "Beard",
                 "value": "Male Goatie 2"
@@ -3188,7 +3188,614 @@ module.exports = {
                 "value": "Green High Beanie"
             }, {
                 "trait_type": "Tattoo",
-                "value": "Tribal Tattoo 3"
+                "value": "Tribal Tattoo"
+            }
+        ]
+    },
+	"302": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "302.png",
+        "image": "ipfs://QmbL5nxTyQVYyNwQFnrYPAFbu8JpvwhNy6Zg4dBhazgsz9",
+        "name": "Dappa Doll #302",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Brown Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Blue Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Blue Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Four Earings"
+            }
+        ]
+    },
+    "303": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "303.png",
+        "image": "303.png",
+        "name": "Dappa Doll #303",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Black Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Green Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Light Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose Piercing "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Small Double Earings"
+            }, {
+                "trait_type": "Markings",
+                "value": "Scar 3"
+            }, {
+                "trait_type": "Glasses",
+                "value": "Tortuise Shell Horn Rim Sunglasses"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Shoulder Wing Tattoo"
+            }
+        ]
+    },
+    "304": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "304.png",
+        "image": "ipfs://QmfXx8YhyS4Q15wkoHfEvVy97o7UiCmTWETmBRZftP5NYg",
+        "name": "Dappa Doll #304",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Blonde Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Brown Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Red Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Upper Gold Studs"
+            }, {
+                "trait_type": "Markings",
+                "value": "Mole"
+            }, {
+                "trait_type": "Hats",
+                "value": "Red Straw Boater Hat"
+            }
+        ]
+    },
+    "305": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "305.png",
+        "image": "ipfs://Qmc8unt5pXeaKtLaHY4sbNmg279h37gNx1JYfUrFqDC5JW",
+        "name": "Dappa Doll #305",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Pink Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Brown Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Black Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Glasses",
+                "value": "Red Square Sunglasses"
+            }, {
+                "trait_type": "Hats",
+                "value": "Golden Bucket Hat"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Rose Tattoo Head"
+            }
+        ]
+    },
+    "306": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "306.png",
+        "image": "ipfs://QmZEM7d2NUkqCN3wbt4Xrunbro9eNNNBH7i9j9T9o1VE7a",
+        "name": "Dappa Doll #306",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Male"
+            }, {
+                "trait_type": "Hair",
+                "value": "Brown Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Hazel Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Black Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrow Piercing"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Mix Tattoo 2"
+            }
+        ]
+    },
+    "307": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "307.png",
+        "image": "ipfs://QmbsaowFojpmNA2QMJ7xRsEfxarM472w21E4fQAZHSCuu2",
+        "name": "Dappa Doll #307",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Male"
+            }, {
+                "trait_type": "Hair",
+                "value": "Blonde Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Green _ Blue Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Dark Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Markings",
+                "value": "Scar 2"
+            }, {
+                "trait_type": "Beard",
+                "value": "Male Moustache 6"
+            }
+        ]
+    },
+    "308": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "308.png",
+        "image": "ipfs://QmeRSsXKMXGwQRbHTMBjDyQbdtA7QVEP3XJ2iSXAEzj8Uq",
+        "name": "Dappa Doll #308",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Alien"
+            }, {
+                "trait_type": "Eyes",
+                "value": "Alien Eyes 2"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Green Lips "
+            }, {
+                "trait_type": "Accessories",
+                "value": "White Beaded Necklace"
+            }, {
+                "trait_type": "Markings",
+                "value": "Scar 1"
+            }, {
+                "trait_type": "Hats",
+                "value": "Golden High Beanie"
+            }
+        ]
+    },
+    "309": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "309.png",
+        "image": "ipfs://QmcyGADYkJAfnY4PcHzJrQw5uxne3Co1EcwEq1oVNakqb3",
+        "name": "Dappa Doll #309",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Alien"
+            }, {
+                "trait_type": "Eyes",
+                "value": "Alien Eyes 2"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Black Lips "
+            }, {
+                "trait_type": "Glasses",
+                "value": "VR Goggles"
+            }, {
+                "trait_type": "Hats",
+                "value": "Black High Beanie"
+            }
+        ]
+    },
+    "310": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "310.png",
+        "image": "ipfs://QmcSz51hA9Ti1DkiweGbjNJ7GXeFfqwaxK7R5YJ4fRF2pn",
+        "name": "Dappa Doll #310",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Blonde Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Closed Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Light Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose Piercing "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Eye Patch"
+            }, {
+                "trait_type": "Markings",
+                "value": "Full Freckles"
+            }
+        ]
+    },
+    "311": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "311.png",
+        "image": "ipfs://Qmdrgp5ZG7MkfbcAvPxYi9tebuyLuZN1f5t9HUT3pNVx6w",
+        "name": "Dappa Doll #311",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Male"
+            }, {
+                "trait_type": "Hair",
+                "value": "Orange Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Blue Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Light Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Markings",
+                "value": "Freckle 1"
+            }, {
+                "trait_type": "Hats",
+                "value": "Black Backwards Cap"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Full Tattoo 1"
+            }
+        ]
+    },
+    "312": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "312.png",
+        "image": "ipfs://QmcQzA8tEKFsriRa7rFPWooK1AH1nGUpAUAJnf6GLCWbcT",
+        "name": "Dappa Doll #312",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Alien"
+            }, {
+                "trait_type": "Eyes",
+                "value": "Alien Eyes 2"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Black Lips "
+            }, {
+                "trait_type": "Glasses",
+                "value": "Tortuise Shell Horn Rim Sunglasses"
+            }
+        ]
+    },
+    "313": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "313.png",
+        "image": "ipfs://QmSbx9ZhaZMmmRZD8BXKLWKs11aGwnCst91i7eGmCUgjYu",
+        "name": "Dappa Doll #313",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Alien"
+            }, {
+                "trait_type": "Eyes",
+                "value": "Alien Eyes 1"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Green Lips "
+            }, {
+                "trait_type": "Markings",
+                "value": "Scar 1"
+            }, {
+                "trait_type": "Glasses",
+                "value": "Gold Glasses"
+            }, {
+                "trait_type": "Hats",
+                "value": "Light Green Beanie"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Stripe Tattoo"
+            }
+        ]
+    },
+    "314": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "314.png",
+        "image": "ipfs://QmT7wMYGoAHaNvReoMXEzziZe7KDRTTM81Z6GBVLdjGCRy",
+        "name": "Dappa Doll #314",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Red Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Green _ Blue Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Lip Ring"
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose Piercing "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Markings",
+                "value": "Scar 5"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Stripe Tattoo"
+            }
+        ]
+    },
+    "315": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "315.png",
+        "image": "ipfs://QmdE5soV7NGvWG4oDQZUS8dZyp6GXQ9s5gnGu5D1SKxiD7",
+        "name": "Dappa Doll #315",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Male"
+            }, {
+                "trait_type": "Hair",
+                "value": "Blonde Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Blue Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Blue Lips"
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Markings",
+                "value": "Scar 1"
+            }
+        ]
+    },
+    "316": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "316.png",
+        "image": "ipfs://QmVMVJ2eJkMYXszkGHz7x91ZrpU7eWfFpi4qkdY6YsNMQr",
+        "name": "Dappa Doll #316",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Black Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Blue _ Brown Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Red Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose Piercing "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Markings",
+                "value": "Scar 4"
+            }, {
+                "trait_type": "Hats",
+                "value": "Purple Cap"
+            }
+        ]
+    },
+    "317": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "317.png",
+        "image": "ipfs://QmXGxpCfaNmdsHSBLqhbn8WYUNkDu8WXw1d63AvzSm8WRB",
+        "name": "Dappa Doll #317",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Alien"
+            }, {
+                "trait_type": "Eyes",
+                "value": "Alien Eyes 3"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Green Lips "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Double Earnings"
+            }, {
+                "trait_type": "Glasses",
+                "value": "Red Square Sunglasses"
+            }, {
+                "trait_type": "Hats",
+                "value": "Blue Wide Brim Fedora"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Black And White Shoulder Tattoo"
+            }
+        ]
+    },
+    "318": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "318.png",
+        "image": "ipfs://QmcY1EsXrqXzvsvpc5QbraQwRCS1Q9BYrBT3uXjPKF3QJi",
+        "name": "Dappa Doll #318",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Orange Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Green Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Red Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Pearl Studs"
+            }, {
+                "trait_type": "Glasses",
+                "value": "Black Round Sunglasses"
+            }
+        ]
+    },
+    "319": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "319.png",
+        "image": "ipfs://QmZuJ7KdYx6tktrp2BjKveXr4gqCqJujqQ6LU1pBNk1tb8",
+        "name": "Dappa Doll #319",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Female"
+            }, {
+                "trait_type": "Hair",
+                "value": "Blonde Hair "
+            }, {
+                "trait_type": "Eyes",
+                "value": "Closed Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Black Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Small Double Earings"
+            }, {
+                "trait_type": "Hats",
+                "value": "Green Cap"
+            }
+        ]
+    },
+    "320": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "320.png",
+        "image": "ipfs://QmR9YZL5SA7D1dJ7iUZWnZq4P4AtGwVSsm5j26mDzo3uFX",
+        "name": "Dappa Doll #320",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Alien"
+            }, {
+                "trait_type": "Eyes",
+                "value": "Alien Eyes 4"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Black Lips "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Black Studs"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Neck Web Tattoo"
+            }
+        ]
+    },
+    "321": {
+        "description": "Dappa Dolls are a collection of 16,000 unique avatars minted by JOJAMI to commemorate individualism.",
+        "external_url": "321.png",
+        "image": "ipfs://QmWp8NvaPtncLqtaEVErTWC3yPPDbmphTseZt1nayWZ8p7",
+        "name": "Dappa Doll #321",
+        "attributes": [{
+                "trait_type": "Type",
+                "value": "Male"
+            }, {
+                "trait_type": "Hair",
+                "value": "Golden Hair"
+            }, {
+                "trait_type": "Eyes",
+                "value": "Blue Eyes"
+            }, {
+                "trait_type": "Mouth",
+                "value": "Dark Lips "
+            }, {
+                "trait_type": "Nose",
+                "value": "Nose Piercing "
+            }, {
+                "trait_type": "Eyebrows",
+                "value": "Eyebrows "
+            }, {
+                "trait_type": "Accessories",
+                "value": "Black Chain"
+            }, {
+                "trait_type": "Hats",
+                "value": "Maroon High Beanie"
+            }, {
+                "trait_type": "Tattoo",
+                "value": "Skull Tattoo"
             }
         ]
     }
