@@ -35,7 +35,7 @@ app.get('/api/creature/:token_id', function(req, res) {
 })
 
 app.get('/api/factory/:token_id', function(req, res) {
-  const tokenId = parseInt(req.params.token_id)
+  /* const tokenId = parseInt(req.params.token_id)
   const doll = db[(tokenId+lastMinted).toString()]
   
   const data = {
@@ -44,6 +44,10 @@ app.get('/api/factory/:token_id', function(req, res) {
     'image': doll.image,
     'description':doll.description,
 
+  } */
+  const data = {
+    'name':'Dappa Dolls Item Sale',
+    'image':'https://drive.google.com/file/d/1XS1SGgb9kNLfCmh2himuKYVaKmoECJT7/view?usp=sharing'
   }
   res.send(data)
 })
@@ -51,8 +55,8 @@ app.get('/api/factory/:token_id', function(req, res) {
 app.get('/contract/DappaTest', function(req,res){
     const data = {
       'description': 'Dolls of the dollz.', 
-      'image': 'https://lh3.googleusercontent.com/d9D0eQyrTMW4jiUevXGxnCivU29neaYHGFYRHtTyibcsJS7krz-iGIneGRW7x8OBqGWQofSXKXUiDTy1WB-ZtHbt7XA9gIWLFcJl1g=s0', 
-      'name': 'Dappa Dolls Test'
+      'image': 'ipfs://QmaRqNavrNMjgvULyiG6V4yWqK4N26mvsVWdA4L3Su1kvu', 
+      'name': 'Dappa Dolls'
     }
   res.send(data)
   
