@@ -47,7 +47,8 @@ app.get('/api/factory/:token_id', function(req, res) {
   } */
   const data = {
     'name':'Dappa Dolls Item Sale',
-    'image':'https://drive.google.com/file/d/1XS1SGgb9kNLfCmh2himuKYVaKmoECJT7/view?usp=sharing'
+    'image':"ipfs://QmaRqNavrNMjgvULyiG6V4yWqK4N26mvsVWdA4L3Su1kvu",
+    'description':'Dappa Dolls Item Sale'
   }
   res.send(data)
 })
@@ -55,7 +56,7 @@ app.get('/api/factory/:token_id', function(req, res) {
 app.get('/contract/DappaTest', function(req,res){
     const data = {
       'description': 'Dolls of the dollz.', 
-      'image': 'ipfs://QmaRqNavrNMjgvULyiG6V4yWqK4N26mvsVWdA4L3Su1kvu', 
+      'image': 'https://lh3.googleusercontent.com/d9D0eQyrTMW4jiUevXGxnCivU29neaYHGFYRHtTyibcsJS7krz-iGIneGRW7x8OBqGWQofSXKXUiDTy1WB-ZtHbt7XA9gIWLFcJl1g=s0', 
       'name': 'Dappa Dolls'
     }
   res.send(data)
