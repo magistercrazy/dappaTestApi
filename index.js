@@ -48,7 +48,7 @@ app.get('/api/factory/:token_id', function(req, res) {
   const data = {
     'name':'Dappa Dolls Item Sale',
     'image':"ipfs://QmaRqNavrNMjgvULyiG6V4yWqK4N26mvsVWdA4L3Su1kvu",
-    'description':'Dappa Dolls Item Sale'
+    'description':'Dappa Dolls are a collection of 15,000 unique avatars minted by JOJAMI to commemorate individualism.'
   }
   res.send(data)
 })
